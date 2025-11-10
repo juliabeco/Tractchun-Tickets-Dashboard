@@ -1,6 +1,6 @@
 # Tractchun Tickets Dashboard — Power BI Project
 
-![Logo](/images/Tractchun+logo.PNG)
+![Logo](images/Tractchun+logo.PNG)
 
 **Interactive analytical dashboard** built in **Power BI** to explore historical support ticket data (2016–2020).  
 This project visualizes key metrics of **agent performance, customer satisfaction, and service efficiency**, using an intuitive design and dual **Dark/Light themes**.
@@ -53,16 +53,16 @@ This structure enables flexible filtering and time-series reporting through DAX 
 ## 🖼️ Dashboard Previews
 
 ### 🌕 Main View — Light Mode
-![Main Light](/images/Main_Light.PNG)
+![Main Light](images/Main_Light.PNG)
 
 ### 🌑 Main View — Dark Mode
-![Main Dark](/images/Main_Dark.PNG)
+![Main Dark](images/Main_Dark.PNG)
 
 ### 🥇 Top Agents Ranking
-![Ranking Agentes](/images/Ranking_Agentes.PNG)
+![Ranking Agentes](images/Ranking_Agentes.PNG)
 
 ### 🕓 Lowest Performers
-![Ranking Últimos](/images/Ranking_Ultimos.PNG)
+![Ranking Últimos](images/Ranking_Ultimos.PNG)
 
 ---
 
