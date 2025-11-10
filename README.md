@@ -53,16 +53,16 @@ This structure enables flexible filtering and time-series reporting through DAX 
 ## 🖼️ Dashboard Previews
 
 ### 🌕 Main View — Light Mode
-![Main Light](images/Main_Light.png)
+![Main Light](images/Main_light.png)
 
 ### 🌑 Main View — Dark Mode
 ![Main Dark](images/Main_Dark.png)
 
 ### 🥇 Top Agents Ranking
-![Ranking Agentes](images/Ranking_Agentes.png)
+![Ranking Agentes](images/Ranking_agentes.png)
 
 ### 🕓 Lowest Performers
-![Ranking Últimos](images/Ranking_Ultimos.png)
+![Ranking Últimos](images/Ranking_ultimos.png)
 
 ---
 
